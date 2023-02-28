@@ -1,0 +1,29 @@
+.flex {
+  display: flex;
+  justify-content: space-around;
+}
+
+h1 {
+  color: black;
+  background-color: hsla(201, 100%, 91%, 0.3);
+  padding: 10px;
+  margin-left: 10px;
+  border: 3px solid white;
+  border-radius: 5px;
+}
+
+body {
+  margin: 10px;
+  padding: 10px;
+}
+
+p {
+  color: white;
+  font-size: x-large;
+}
+
+h3 {
+  justify-self: center;
+  font-size: 30px;
+  border-bottom: 4px solid white;
+}
